@@ -1,14 +1,19 @@
-[
-   {
-      "id":1,
-      "pergunta":"Qual o nome do criador da linguagem de programação JAVA?"
-   },
-   {
-      "id":2,
-      "pergunta":"Em que ano o AndroidStudio foi criado?"
-   },
-   {
-      "id":3,
-      "pergunta":"Qual é a linguagem de programação mais utilizada no mundo?"
-   }
-]
+{
+	"pergunta1": [{
+		"id": 1,
+		"pergunta": "Qual o nome do criador da linguagem de programação JAVA?",
+		"resposta": "Jason"
+	}],
+
+	"pergunta2": [{
+		"id": 1,
+		"pergunta": "Em que ano o AndroidStudio foi criado?",
+		"resposta": "2011"
+	}],
+
+	"pergunta3": [{
+		"id": 1,
+		"pergunta": "Qual é a linguagem de programação mais utilizada no mundo?",
+		"resposta": "Java"
+	}]
+}
