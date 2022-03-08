@@ -2,18 +2,25 @@
 	"pergunta1": [{
 		"id": 1,
 		"pergunta": "Qual o nome do criador da linguagem de programação JAVA?",
-		"resposta": "Jason"
+		"respostaerrada1": "James Gosling",
+		"respostaerrada2": "Brendan Eich",
+		"respostacerta": "Guido van Rossum"
 	}],
 
 	"pergunta2": [{
 		"id": 1,
-		"pergunta": "Em que ano o AndroidStudio foi criado?",
-		"resposta": "2011"
+		"pergunta": "Em que ano o Android foi criado?",
+		"respostaerrada1": "2011",
+		"respostacerta": "2008",
+		"respostaerrada2": "2010"
+
 	}],
 
 	"pergunta3": [{
 		"id": 1,
 		"pergunta": "Qual é a linguagem de programação mais utilizada no mundo?",
-		"resposta": "Java"
+		"respostaerrada1": "Java",
+		"respostaerrada2": "Linguagem C",
+		"respostacerta": "JavaScript"
 	}]
 }
