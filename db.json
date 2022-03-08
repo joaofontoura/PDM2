@@ -3,8 +3,8 @@
 		"id": 1,
 		"pergunta": "Qual o nome do criador da linguagem de programação JAVA?",
 		"respostacerta": "James Gosling",
-		"respostaerrada1": "Guido van Rossum"
-		"respostaerrada2": "Brendan Eich",
+		"respostaerrada1": "Guido van Rossum",
+		"respostaerrada2": "Brendan Eich"
 	}],
 
 	"pergunta2": [{
@@ -19,8 +19,8 @@
 	"pergunta3": [{
 		"id": 1,
 		"pergunta": "Qual é a linguagem de programação mais utilizada no mundo?",
-		"respostacerta": "JavaScript"
+		"respostacerta": "JavaScript",
 		"respostaerrada1": "Java",
-		"respostaerrada2": "Linguagem C",
+		"respostaerrada2": "Linguagem C"
 	}]
 }
