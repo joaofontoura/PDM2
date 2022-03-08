@@ -13,4 +13,14 @@
 		"respostacerta": "2008",
 		"respostaerrada1": "2011",
 		"respostaerrada2": "2010"
+
+	}],
+
+	"pergunta3": [{
+		"id": 1,
+		"pergunta": "Qual é a linguagem de programação mais utilizada no mundo?",
+		"respostacerta": "JavaScript",
+		"respostaerrada1": "Java",
+		"respostaerrada2": "Linguagem C"
+	}]
 }
