@@ -2,9 +2,9 @@
 	"pergunta1": [{
 		"id": 1,
 		"pergunta": "Qual o nome do criador da linguagem de programação JAVA?",
-		"respostaerrada1": "James Gosling",
+		"respostacerta": "James Gosling",
 		"respostaerrada2": "Brendan Eich",
-		"respostacerta": "Guido van Rossum"
+		"respostaerrada1": "Guido van Rossum"
 	}],
 
 	"pergunta2": [{
