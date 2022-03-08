@@ -1,26 +1,29 @@
 {
-	"pergunta1": [{
-		"id": 1,
-		"pergunta": "Qual o nome do criador da linguagem de programação JAVA?",
-		"respostacerta": "James Gosling",
-		"respostaerrada1": "Guido van Rossum",
-		"respostaerrada2": "Brendan Eich"
-	}],
-
-	"pergunta2": [{
-		"id": 1,
-		"pergunta": "Em que ano o Android foi criado?",
-		"respostacerta": "2008",
-		"respostaerrada1": "2011",
-		"respostaerrada2": "2010"
-
-	}],
-
-	"pergunta3": [{
-		"id": 1,
-		"pergunta": "Qual é a linguagem de programação mais utilizada no mundo?",
-		"respostacerta": "JavaScript",
-		"respostaerrada1": "Java",
-		"respostaerrada2": "Linguagem C"
-	}]
+   "pergunta1":[
+      {
+         "id":1,
+         "pergunta":"Qual o nome do criador da linguagem de programação JAVA?",
+         "respostacerta":"James Gosling",
+         "respostaerrada1":"Guido van Rossum",
+         "respostaerrada2":"Brendan Eich"
+      }
+   ],
+   "pergunta2":[
+      {
+         "id":1,
+         "pergunta":"Em que ano o Android foi criado?",
+         "respostacerta":"2008",
+         "respostaerrada1":"2011",
+         "respostaerrada2":"2010"
+      }
+   ],
+   "pergunta3":[
+      {
+         "id":1,
+         "pergunta":"Qual é a linguagem de programação mais utilizada no mundo?",
+         "respostacerta":"JavaScript",
+         "respostaerrada1":"Java",
+         "respostaerrada2":"Linguagem C"
+      }
+   ]
 }
